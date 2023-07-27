@@ -1,6 +1,6 @@
 {
   "name": "@sylvanas-cry/json-lines-colorize",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Colorizes the JSON-strings input stream (stdin).",
   "author": {
     "name": "Sylvanas Cry",
